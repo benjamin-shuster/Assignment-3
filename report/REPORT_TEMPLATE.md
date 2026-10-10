@@ -1,7 +1,7 @@
 # A3 report template
 
-Name:
-Commit SHA:
+Name: Ben Shuster
+Commit SHA: 578d5d38f81d6a91d55e4dd9b70738f8c690234b
 
 ## Part 1. Evidence log
 
