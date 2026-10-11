@@ -1,1 +1,4 @@
 evidence_id,requirement_id,acceptance_criterion_id,test_name
+"INT-01:P06",R-1,AC-1,test_ac1_grace_period_expiration
+INT-01:P07,R-3,AC-2,test_ac2_staff_hold_protection
+INT-01:P09,R-4,AC-3,test_ac3_kit_not_ready_for_waitlist
